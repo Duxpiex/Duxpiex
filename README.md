@@ -3,7 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hyuk%20Jin%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 ### <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> 안녕하세요 개발자 최혁진입니다.👋
-<p>I'm HyukJin, <code>Front-end</code> developer from Korea. I use Flutter,React often.</p>
+##### I'm HyukJin, <code>Front-end</code> developer from Korea.
+
+- 🌱 I'm a novice developer 
+
+- 🤔 I'm currently interested in <code>Front-end</code> development
+
+- 🔭 So I'm focusing on learning Flutter,React these days! 😁
 
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
