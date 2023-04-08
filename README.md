@@ -36,8 +36,6 @@
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-premiere.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-after-effects.svg" width="40" height="40" align="left"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 
