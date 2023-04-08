@@ -14,7 +14,9 @@
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&layout=compact)](https://github.com/Duxpiex)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex)
+
 
 ## 🛠 Tech Stacks
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>
