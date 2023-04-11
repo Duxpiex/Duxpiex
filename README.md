@@ -17,28 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/html-5.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/javascript.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/react.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/mysql.svg" width="40" height="40" align="left"/></a>
-<br>
-<br>
-<h2> 🛠 Tools</h2>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/visual-studio-code.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/rider.svg" width="40" height="40" align="left"/>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
-
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -107,6 +86,27 @@ Java                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 11/04/2023 16:08:25 UTC
 <!--END_SECTION:waka-->
+
+
+
+<h2> 🛠 Tech Stacks</h2>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/html-5.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/javascript.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/react.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/mysql.svg" width="40" height="40" align="left"/></a>
+<br>
+<br>
+<h2> 🛠 Tools</h2>
+<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/visual-studio-code.svg" width="40" height="40" align="left"/>
+<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
+<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
+<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/rider.svg" width="40" height="40" align="left"/>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
