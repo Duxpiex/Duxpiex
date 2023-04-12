@@ -20,33 +20,25 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-346-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-318-blue)
+**I'm a Night 🦉** 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 88.6 kB Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+🌃 Evening                56 commits          █████████████████░░░░░░░░   67.47 % 
+🌙 Night                  16 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Tuesday                  30 commits          █████████░░░░░░░░░░░░░░░░   36.59 % 
-Wednesday                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Friday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Monday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Tuesday                  30 commits          █████████░░░░░░░░░░░░░░░░   36.14 % 
+Wednesday                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Friday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -84,7 +76,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2023 16:25:37 UTC
+ Last Updated on 12/04/2023 00:25:04 UTC
 <!--END_SECTION:waka-->
 
 
