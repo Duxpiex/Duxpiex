@@ -80,7 +80,7 @@ Java                     1 repo              ██░░░░░░░░░�
  Last Updated on 28/04/2023 00:27:24 UTC
 <!--END_SECTION:waka-->
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
@@ -100,6 +100,7 @@ Java                     1 repo              ██░░░░░░░░░�
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
