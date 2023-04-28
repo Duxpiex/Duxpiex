@@ -1,9 +1,13 @@
+<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/name.svg" width="50%"   align="left"/></a>
 
 
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Hyuk%20Jin%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
-
+-->
 ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hi There!👋
 #### I'm HyukJin, <code>Front-end</code> developer from Korea.
+
 
 - 🌱 I'm a novice developer 
 
@@ -11,13 +15,17 @@
 
 - 🔭 So I'm focusing on learning Flutter,React these days! 😁
 
+ [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/Duxpiex)
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duxpiex&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex) -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</br>
+</br>
+</br>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
@@ -82,6 +90,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
@@ -103,7 +112,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&height=200&section=footer) -->
 
 
 
