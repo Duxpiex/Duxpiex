@@ -6,19 +6,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Hyuk%20Jin%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 -->
 <!-- ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> --> 
-## Hi There!👋
-#### I'm HyukJin, <code>Front-end</code> developer from Korea.
 
-
-- 🌱 I'm a novice developer 
-
-- 🤔 I'm currently interested in <code>Front-end</code> development
-
-- 🔭 So I'm focusing on learning Flutter,React these days! 😁
-
+<div>
+ <h2> Hi There!👋 </h2>
+ <h3> I'm HyukJin, <code>Front-end</code> developer from Korea. </h3>
+ <li> 🌱 I'm a novice developer </li>
+ 
+ <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
+ 
+ <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true)
-
-
+</div>
 
 <!-- [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/Duxpiex) -->
 
