@@ -15,19 +15,17 @@
  <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
  <br>
  <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
- 
 </div>
 
 <br>
 <br>
 <br>
 
-
 <div align=center>
  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-duxpiex.vercel.app/api?theme=dark&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
+<a href="https://github.com/tthn0/Spotify-Readme"> -->
+  <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=true" width="60%" alt="Current Spotify Song">
 </a>
 </div>
 <br>
