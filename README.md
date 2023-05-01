@@ -7,18 +7,32 @@
 -->
 <!-- ## <img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> --> 
 
-<div>
+<div >
  <h2> Hi There!👋 </h2>
  <h3> I'm HyukJin, <code>Front-end</code> developer from Korea. </h3>
  <li> 🌱 I'm a novice developer </li>
-
+ <br>
  <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
-
+ <br>
  <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true)
 </div>
 
+<br>
+<br>
+<br>
+
+
+<div align=center>
+ 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=600%&count=3)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-duxpiex.vercel.app/api?theme=dark&scan=true&rainbow=false" width="45%" alt="Current Spotify Song">
+</a>
+</div>
+<br>
+
+ 
 <!-- [![github_stats](https://github-readme-stats.vercel.app/api?username=Duxpiex&show_icons=true&hide_border=true)](https://github.com/Duxpiex) -->
 
 
@@ -27,6 +41,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div align=center>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -75,29 +90,41 @@ Windows                  9 mins              █░░░░░░░░░░�
  Last Updated on 01/05/2023 03:16:58 UTC
 <!--END_SECTION:waka-->
 
+ </div>
+ 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true)
 
-<h2> 🛠 Tech Stacks</h2>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/html-5.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/css-3.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/javascript.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/react.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/mysql.svg" width="40" height="40" align="left"/></a>
-<br>
-<br>
-<h2> 🛠 Tools</h2>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/visual-studio-code.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/intellij-idea.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/datagrip.svg" width="40" height="40" align="left"/>
-<img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/rider.svg" width="40" height="40" align="left"/>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" align="left"/></a>
-<a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" align="left"/></a>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300&count=7)
+-->
+
+ 
 
 
+<div align=center>
+
+ <h2> 🛠 Tech Stacks</h2>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/dart.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/flutter.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/html-5.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/css-3.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/javascript.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/react.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/mysql.svg" width="40" height="40" /></a>
+ <br>
+ <br>
+ <h2> 🛠 Tools</h2>
+ <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/visual-studio-code.svg" width="40" height="40" />
+ <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/intellij-idea.svg" width="40" height="40" />
+ <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/datagrip.svg" width="40" height="40" />
+ <img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/rider.svg" width="40" height="40" />
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-photoshop.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-illustrator.svg" width="40" height="40" /></a>
+ <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" /></a>
+
+</div>
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&height=200&section=footer) -->
 
