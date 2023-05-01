@@ -20,8 +20,8 @@
 <br>
 <div align=center>
  
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
-<a href="https://github.com/tthn0/Spotify-Readme"> -->
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3) -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31hvzqlxrc4qsck4v2qxcoaesm3i&redirect=true">
   <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
 </a>
 </div>
