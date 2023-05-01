@@ -17,10 +17,6 @@
  <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
 </div>
 
-<br>
-<br>
-<br>
-
 <div align=center>
  
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
