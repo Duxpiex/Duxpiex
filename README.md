@@ -25,9 +25,9 @@
 
 <div align=center>
  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=600%&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-duxpiex.vercel.app/api?theme=dark&scan=true&rainbow=false" width="45%" alt="Current Spotify Song">
+  <img src="https://spotify-readme-duxpiex.vercel.app/api?theme=dark&scan=true&rainbow=false" width="50%" alt="Current Spotify Song">
 </a>
 </div>
 <br>
