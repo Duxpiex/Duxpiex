@@ -17,12 +17,12 @@
  <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
  <br>
 </div>
-
+<br>
 <div align=center>
  
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hvzqlxrc4qsck4v2qxcoaesm3i&width=300%&count=3)
 <a href="https://github.com/tthn0/Spotify-Readme"> -->
-  <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=true" width="60%" alt="Current Spotify Song">
+  <img src="https://spotify-readme-duxpiex.vercel.app/api?&scan=true&rainbow=true" width="50%" alt="Current Spotify Song">
 </a>
 </div>
 <br>
