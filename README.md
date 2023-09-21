@@ -11,9 +11,7 @@
  <h2> Hi There!👋 </h2>
  <h3> I'm HyukJin, <code>Front-end</code> developer from Korea. </h3>
  <li> 🌱 I'm a novice developer </li>
- <br>
  <li> 🤔 I'm currently interested in <code>Front-end</code> development </li>
- <br>
  <li> 🔭 So I'm focusing on learning Flutter,React these days! 😁 </li>
  <br>
 </div>
