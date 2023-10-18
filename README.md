@@ -64,18 +64,17 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    0 secs              ████████████████░░░░░░░░░   62.60 % 
-CSS                      0 secs              █████████░░░░░░░░░░░░░░░░   37.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/10/2023 03:15:51 UTC
+ Last Updated on 18/10/2023 03:16:10 UTC
 <!--END_SECTION:waka-->
 
  </div>
