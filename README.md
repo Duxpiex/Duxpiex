@@ -64,18 +64,17 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               31 mins             ██████████████████████░░░   87.47 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/03/2024 03:16:02 UTC
+ Last Updated on 07/03/2024 03:14:20 UTC
 <!--END_SECTION:waka-->
 
  </div>
