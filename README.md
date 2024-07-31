@@ -92,7 +92,7 @@ Mac                      6 hrs 45 mins       ███████████�
 
  
 
-
+<!--
 <div align=center>
 
  <h2> 🛠 Tech Stacks</h2>
@@ -115,7 +115,7 @@ Mac                      6 hrs 45 mins       ███████████�
  <a href="#" target="_blank"><img src="https://github.com/Duxpiex/Duxpiex/blob/main/img/adobe-xd.svg" width="40" height="40" /></a>
 
 </div>
-
+-->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&&height=200&section=footer) -->
 
 
