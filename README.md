@@ -65,17 +65,17 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on Wednesday, April 02, 2025 UTC
+ Last Updated on Saturday, April 05, 2025 UTC
 <!--END_SECTION:waka-->
 
  </div>
