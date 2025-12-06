@@ -65,17 +65,17 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SCSS                     43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on Friday, December 05, 2025 UTC
+ Last Updated on Saturday, December 06, 2025 UTC
 <!--END_SECTION:waka-->
 
  </div>
