@@ -38,8 +38,52 @@
 <div align=center>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20mins-blue?style=flat)
 
- Last Updated on Friday, August 07, 2026 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌆 Daytime                166 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                214 commits         ███████████░░░░░░░░░░░░░░   42.97 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 135 commits         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Saturday                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on Saturday, August 08, 2026 UTC
 <!--END_SECTION:waka-->
 
  </div>
